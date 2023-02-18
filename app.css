@@ -21,6 +21,7 @@ html {
   width: 100%;
   padding-top: 10px;
   justify-content: space-between;
+  
 }
 .header-right {
   display: flex;
@@ -30,9 +31,12 @@ html {
 }
 .shopping {
   display: flex;
+  align-items: center;
   width: 100px;
   gap: 10px;
   margin-left: 10px;
+  
+  
 }
 .abouth-item {
   color: rgb(114, 114, 114);
